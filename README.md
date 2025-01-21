@@ -1,1 +1,1 @@
-# My new  portfolio with react and framer-motion
+# My portfolio with react and framer-motion
